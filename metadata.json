@@ -1,0 +1,6 @@
+{
+  "name": "ZERO ZONE // Battle Royale",
+  "description": "3D Tactical Battle Royale & FPS Shooter inspired by Free Fire and Call of Duty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
